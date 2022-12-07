@@ -1,0 +1,55 @@
+.main {
+    background-image: url(https://economictimes.indiatimes.com/thumb/msid-64237109,width-1200,height-900,resizemode-4,imgsize-264604/when-a-couple-from-new-york-found-a-chest-full-of-treasure-in-their-backyard.jpg?from=mdr);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.body-project h1 {
+    color: white;
+}
+
+.body-project a {
+    color: lightskyblue;
+    background: darkslategray;
+    border: 1px solid lightskyblue;
+}
+
+.videos {
+    background-image: url(https://media.istockphoto.com/id/611868178/photo/pirate-treasure-map.jpg?s=612x612&w=0&k=20&c=PSrUBJLvjxmerGk2DBlGQmah-llb_dhj04tePcz40fk=);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.videos span {
+    background-color: tan;
+    color: black;
+    font-weight: 700;
+}
+
+.body-videos {
+    font-weight: 900;
+    font-size: 25px;
+    color: black;
+}
+
+.about {
+    background-image: url(https://c.files.bbci.co.uk/243E/production/_114087290_mediaitem114087289.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.contact {
+    background-image: url(https://media.istockphoto.com/id/611868178/photo/pirate-treasure-map.jpg?s=612x612&w=0&k=20&c=PSrUBJLvjxmerGk2DBlGQmah-llb_dhj04tePcz40fk=);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.contact span {
+    background-color: tan;
+    color: black;
+    font-weight: 700;
+}
